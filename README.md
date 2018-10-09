@@ -1,2 +1,2 @@
 # vue-weexMobile
-代码参考
+Weex代码参考
